@@ -98,7 +98,7 @@ int main() {
 	}
 	cout << endl;
 	cout << "=============================\n";
-	cout << "Enter (Y) To Continue\nEnter (N) To Exit\n";
+	cout << "Enter (Y) To Continue\nEnter (N) To Exit"<<endl;
 	cout << "=============================\n";
 	cout << endl;
 	cout << "Enter The Process: "; cin >> ch;
